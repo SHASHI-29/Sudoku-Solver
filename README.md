@@ -49,21 +49,15 @@ Here are some ideas to enhance the game further:
 
 1. 🧠 Auto-solver Mode: Allow the system to auto-solve any valid input using backtracking.
 
-2. 🖼️ GUI Integration: Develop a graphical interface using libraries like Qt or SFML.
+2. 🌐 Web Version: Convert the logic to JavaScript/WebAssembly for a browser-based game.
 
-3. 🌐 Web Version: Convert the logic to JavaScript/WebAssembly for a browser-based game.
+3. 📈 Leaderboard: Add user profiles and display top scores.
 
-4. 📈 Leaderboard: Add user profiles and display top scores.
+4. 🎯 Hint System: Add a feature that reveals valid values for a random cell.
 
-5. 📱 Mobile Port: Build Android/iOS apps using Flutter or React Native.
+5. 🔄 Save & Resume: Implement save states to resume incomplete games later.
 
-6. 🎯 Hint System: Add a feature that reveals valid values for a random cell.
 
-7. 🧩 Custom Puzzle Input: Allow users to input their own puzzles.
-
-8. 🔄 Save & Resume: Implement save states to resume incomplete games later.
-
-9. 🧪 Unit Testing: Add testing for solution validation and puzzle generation logic.
 ## 🚀 Getting Started
 
 ### Requirements
