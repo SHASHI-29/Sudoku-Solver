@@ -1,0 +1,4 @@
+Grid: 4x4, Difficulty: 70%, Time: 16s, Correct 
+Grid: 4x4, Difficulty: 70%, Time: 13s, Correct 
+Grid: 4x4, Difficulty: 30%, Time: 96s, Correct 
+Grid: 4x4, Difficulty: 70%, Time: 14s, Correct 
